@@ -18,7 +18,6 @@ This theme is written in vanilla JavaScript (+ TypeScript for type checking) and
 
 ## Archives
 
-Here are certain features of this site.
 
 Original Diary
 
