@@ -181,13 +181,10 @@ I forwarded her ``well and truly doomed'' paragraph to my manager, and he came i
 
 **6pm.**
 I'm still here. We got a slight reprieve, as everyone agreed to delay the release to midnight. People started testing my new builds at 1:50pm, which is when I went to sleep.
-**At 2pm, I was awakened.**
-
-**By screams.**
-
-**As the building's power went out.**
-
-I am not making this up.
+  At 2pm, I was awakened.
+  By screams.
+  As the building's power went out.
+  I am not making this up.
 
 **midnight.**
 The power came back on, and we put the damnable program on the FTP server, and two million people all started attempting to download it at once, before we had even posted the announcement message, and we're done done done and I suppose now we can all live happily ever after.
