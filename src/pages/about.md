@@ -4,7 +4,7 @@ title: "About"
 ---
 We sat in the dark and cheered, listening to the explosions.
 
-It's original from diary of Jamie Zawinski in 1994.10[link](https://www.jwz.org/gruntle/nscpdorm.html)
+It's original from diary of Jamie Zawinski in 1994.10 [link](https://www.jwz.org/gruntle/nscpdorm.html)
 
 
 
